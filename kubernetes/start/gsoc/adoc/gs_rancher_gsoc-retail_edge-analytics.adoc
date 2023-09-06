@@ -48,8 +48,9 @@ include::./common_docinfo_vars.adoc[]
 
 :product1: Rancher
 :product1_full: Rancher Prime by SUSE
-:product1_version: 2.7
 :product1_url: www.rancher.com/products/rancher/
+:product1_docs: ranchermanager.docs.rancher.com
+:product1_version: 2.7
 :product2: K3s
 :product2_version: 1.25.11+k3s1
 :product2_url: k3s.io/
@@ -61,7 +62,8 @@ include::./common_docinfo_vars.adoc[]
 
 :usecase: edge analytics in retail
 
-// :executive_summary: A brief statement of what this document provides (e.g., This document provides a brief introduction to implementing {usecase} with {product2_full} and {product1_full}.)
+:executive_summary: This document provides an introduction to the analytics edge ecosystem with Rancher by SUSE through the deployment of machine learning workloads for a retail store. This project is part of the Google Summer of Code, a global online mentoring program focused on introducing new contributors to open source software development.
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
